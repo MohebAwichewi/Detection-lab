@@ -76,4 +76,5 @@ In-Band SQL Injection is the easiest type to detect and exploit; In-Band just re
 <p>Monitoring Mode Setup
 Step 1: Kill Interrupting Services
 Before enabling monitoring mode, identify and kill services that might interrupt the process</p>
-<img src="https://imgur.com/a/pljg7J5"  height="80%" width="80%" alt="Steps"/>
+<img src="https://imgur.com/a/pljg7J5"/>
+</p>
