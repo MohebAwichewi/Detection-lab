@@ -13,7 +13,7 @@ In-Band SQL Injection is the easiest type to detect and exploit; In-Band just re
 
 <h2>Environments Used </h2>
 
-- <b>Kali Linux</b> (21H2)
+- <b>Kali Linux</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -53,12 +53,28 @@ You should now have access to Martin's password to enter to move to the next lev
 <img src="https://i.imgur.com/ggFMAVI.png" height="80%" width="80%" alt="SQLinjection Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
+<h1>Wpa/Wpa2 Wifi Hacking </h1>
+
+<h2>Description</h2>
+In-Band SQL Injection is the easiest type to detect and exploit; In-Band just refers to the same method of communication being used to exploit the vulnerability and also receive the results, for example, discovering an SQL Injection vulnerability on a website page and then being able to extract data from the database to the same page.
+<br />
+
+
+<h2>Tools Required </h2>
+
+- <b>Network Adapter (e.g., TL-WN722N V2) with monitoring mode support.</b> 
+- <b>Aircrack-ng</b>
+- <b>Airodump-ng</b>
+- <b>Airmon-ng</b>
+-<b>Crunch</b>
+<h2>Environments Used </h2>
+
+- <b>Kali Linux</b> (21H2)
+
+<h2>Program walk-through:</h2>
+<p>Monitoring Mode Setup
+Step 1: Kill Interrupting Services
+Before enabling monitoring mode, identify and kill services that might interrupt the process</p>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pljg7J5" data-context="false" ><a href="//imgur.com/a/pljg7J5"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
