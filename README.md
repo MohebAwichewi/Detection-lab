@@ -237,7 +237,21 @@ Developed skills in building data visualization dashboards using Splunk to uncov
 <p> ● Basic Level 11 </p>
 
 ![image](https://github.com/MohebAwichewi/Projects/assets/149394585/8b9b8cef-6e3f-4f0f-a709-91dd10a105f1)
-<p>Conclusion</p>
+<p>Conclusion : In conclusion, the penetration testing report found several vulnerabilities in the "Basic"
+ web challenge from HackThisSite.org. These vulnerabilities included hardcoded
+ passwords, no password file, location of the password hidden in the source code,
+hardcoded credentials within the application, weak encryption and command injection.
+ These vulnerabilities could potentially lead to a breach of confidentiality, integrity and
+ availability that could result in business, financial or reputational loss for an
+ organisation. The report provided recommendations for better securing the web
+ application and highlighted the importance of proper web application security. It's
+ important to note that regular penetration testing and vulnerability assessments can
+ help you to identify and fix security vulnerabilities before they can be exploited by
+ attackers. </p>
+
+ <p> PENETRATION TESTING REPORT </p>
+ 
+[hack this site pentesting report.pdf](https://github.com/MohebAwichewi/Projects/files/14358260/hack.this.site.pentesting.report.pdf)
 
 
 
