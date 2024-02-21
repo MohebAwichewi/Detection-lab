@@ -184,6 +184,65 @@ Developed skills in building data visualization dashboards using Splunk to uncov
 ![image](https://github.com/MohebAwichewi/Projects/assets/149394585/d6e6de9c-7cdb-44c1-ad76-b426d9a17373)
 <p>To export the dashboard, click the “Export PDF” button</p>
 
+<h1> Penetration Testing : Hackthissite </h1>
+
+<h2>Description</h2>
+ HackThisSite.org isanonlineplatformthatprovidesa legal andsafeenvironment for
+ individuals to improve theircyber securityskills throughavarietyofchallengesand
+ CapturetheFlag(CTF)events.Establishedin2003, it isnot justawebsiteforhacker
+ simulationsbut ratheracommunityof like-mindedindividualswhoarededicatedto
+ sharing and gaining knowledge in ethical hacking, programming, and technical hobbies.
+<br />
+
+
+<h2>Tools Required</h2>
+
+- <b>Virtual Machine /laptop</b> 
+- <b>Knowledge in programmation and Web Dev</b>
+-<b>ANALYTICAL SKILLS</b>
+
+<h2>Environments Used </h2>
+
+- <b>Windows</b>
+  
+<h2>Program walk-through:</h2>
+<p>  Appendix
+ ● Basic Level 1</p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/aa4093c5-2ee7-4163-9e93-23fe4cbef4f2)
+<p> ● Basic Level 3 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/4ddb9e15-284a-4604-a20a-4b12f939896b)
+
+<p> ● Basic Level 4&5 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/8287930a-d947-42c2-a8e0-1d47fc6100c3)
+<p> ● Basic Level 7 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/a29d5c76-49d5-4fa9-969d-31f7703cd576)
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/d453c01f-b8a7-495e-a0fb-7d601f48c128)
+<p> ● Basic Level 8 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/5eb0c572-a71a-4170-931f-06eb4b216c46)
+
+<p> ● Basic Level 9 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/a79b9873-0bf2-4c64-8936-5fa4c05da50f)
+
+<p> ● Basic Level 10 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/b0b5c99f-f355-432c-b459-b0ce45386f81)
+
+<p> ● Basic Level 11 </p>
+
+![image](https://github.com/MohebAwichewi/Projects/assets/149394585/8b9b8cef-6e3f-4f0f-a709-91dd10a105f1)
+<p>Conclusion</p>
+
+
+
+
+
 
 
 
